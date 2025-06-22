@@ -43,17 +43,24 @@ Includes UART communication and ADC sampling with Proteus and LTspice simulation
 ## Academic Projects
 
 - COMPSYS 305 – FPGA Game Design with VHDL  
-- COMPSYS 302 – Full-stack Android Development  
-- ENGSCI 313 – Signal Processing and Complex Analysis  
-- SOFTENG 283 – Software Quality and Testing  
+- COMPSYS 302 – Full-stack Android Development
+- COMPSYS 209 - Smart Energy Monitor
 
 ---
 
 ## Let's Connect
 
 - Location: Auckland, New Zealand  
-- LinkedIn: [linkedin.com/in/your-link](https://www.linkedin.com/in/your-link)  
+- LinkedIn: [linkedin.com/in/chaeeunlee0215](https://www.linkedin.com/in/chaeeunlee0215)  
 - Email: avalee0215@gmail.com
 
 Feel free to explore my pinned repositories or reach out for collaboration opportunities.
+
+---
+
+## Disclaimer
+
+The projects showcased in this repository are part of my personal portfolio and were developed for academic, hackathon, or learning purposes.  
+Please do not reuse, copy, or distribute any part of the code or design without explicit permission.
+
 
