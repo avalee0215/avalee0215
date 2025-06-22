@@ -30,7 +30,7 @@ Awarded 2nd Place – Most Impactful NZ Solution at WEB3 Hackathon 2025.
 Pixel-art story-based puzzle game centered around memory and self-identity in the afterlife.  
 Received the Narrative Excellence Award at the GDG Auckland Game Jam 2024.
 
-### [Thinking Potato – AI Productivity Assistant](https://github.com/avalee0215/Thinking-Potato-Backend) | [Frontend](https://github.com/avalee0215/Thinking-Potato-frontend)  
+### [Thinking Potato – Productivity Assistant](https://github.com/avalee0215/Thinking-Potato-Backend) | [Frontend](https://github.com/avalee0215/Thinking-Potato-frontend)  
 Full-stack web application using Spring Boot, MySQL, and Azure.  
 Designed to support interactive learning and session tracking for personalized math tutoring.
 
