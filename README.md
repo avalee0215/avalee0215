@@ -6,9 +6,12 @@ I'm a Computer Systems Engineering student at the University of Auckland passion
 
 ## Technical Skills
 
-- Languages: Java, Python, JavaScript, TypeScript, VHDL, C  
-- Frameworks & Tools: React, Spring Boot, Android SDK, Firebase, MySQL  
-- Others: Git & GitHub, Figma, Quartus Prime, ModelSim, GitHub Actions, Azure
+- Programming Languages: Java, C/C++, Python, JavaScript, TypeScript, MATLAB, R  
+- Embedded Systems: ATmega328{, UART, ADC, Timer Interrupts, VHDL, Quartus, DE0-CV FPGA
+- Frontend Development: React, HTML, CSS, Android Studio, XML, Webpack, Jest  
+- Backend & API Development: Spring Boot, Node.js, MySQL, Apache Tomcat, REST APIs, Payload CMS
+- Mobile & Cloud: Firebase (Firestore), Microsoft Azure, Docker, Jenkins (CI/CD)  
+- Tools & Collaboration: Git, GitHub, Agile, Figma, Adobe Tools (Photoshop, InDesign), CAD
 
 ---
 
